@@ -1,6 +1,6 @@
 # ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization
 
-![[Poster-ImageGem.png]]
+![Poster](https://github.com/MAPS-research/ImageGem/blob/main/assets/imagegem-poster.png?raw=true)
 
 ## Links
 
