@@ -1,5 +1,10 @@
 # ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization
 
+
+[Yuanhe Guo](https://ricercarg.github.io/)\*, [Linxi Xie](https://lafoucc.github.io/)\*, [Zhuoran Chen](https://www.linkedin.com/in/zhuoran-jolia-chen-90a18a251/), [Kangrui Yu](https://www.linkedin.com/in/kangrui-yu-1206b7266/?originalSubdomain=cn), [Ryan Po](https://ryanpo.com/), [Guandao Yang](https://www.guandaoyang.com/), [Gordon Wetzstein](https://stanford.edu/~gordonwz/), [Hongyi Wen](https://whongyi.github.io/)†
+
+*\*Indicates Equal Contribution †Correspondence*
+
 ![Poster](https://github.com/MAPS-research/ImageGem/blob/main/assets/imagegem-poster.png?raw=true)
 
 ## Links
